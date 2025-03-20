@@ -1,0 +1,14 @@
+# conda env create --file=venv_fem_outliers_avsigclip_1_0.yml
+name: venv_fem_outliers_avsigclip_1_0
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - ipykernel=6.29.5
+  - ipython=8.30.0
+  - matplotlib=3.10.0
+  - notebook=6.5.7
+  - numpy=2.2.1
+  - pandas=2.2.3
+  - python=3.13.1
+prefix: /Users/dhoard/opt/anaconda3/envs/venv_fem_outliers_avsigclip_1_0
